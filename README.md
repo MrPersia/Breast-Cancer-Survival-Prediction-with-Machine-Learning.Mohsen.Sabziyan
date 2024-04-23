@@ -13,13 +13,13 @@
 Models
 The script utilizes the following models:
 
-Support Vector Machine (SVM)
-Random Forest
-Gradient Boosting
-K-nearest Neighbors (KNN)
-Naive Bayes
-Decision Tree
-Logistic Regression
+- Support Vector Machine (SVM)
+- Random Forest
+- Gradient Boosting
+- K-nearest Neighbors (KNN)
+- Naive Bayes
+- Decision Tree
+- Logistic Regression
 
 Das Skript trainiert verschiedene Modelle für die Brustkrebsvorhersage und bewertet ihre Leistung anhand eines Teils der Daten. Es gibt auch eine README-Datei, die die Verwendung des Projekts erklärt.
 
