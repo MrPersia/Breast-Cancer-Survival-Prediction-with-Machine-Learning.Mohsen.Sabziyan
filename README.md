@@ -1,5 +1,5 @@
 # Breast-Cancer-Survival-Prediction-with-Machine-Learning.Mohsen.Sabziyan
-**Breast Cancer Prediction - MrPersia**
+**Breast Cancer Prediction**
 
 **Projektname:** Breast Cancer Prediction
 
